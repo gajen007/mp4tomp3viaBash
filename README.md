@@ -13,7 +13,9 @@ We can just convert a single mp4 file to mp3 file, with the below command.
 Execute the bash script inside where you keep several mp4 files.
 
 Please enhance this repo, with your branches such as...
+
 1.Save the converted files in a different folder
+
 2.Convert the file with different encoding and/or bitRate etc.
 
 Thanks for using this repo..!
